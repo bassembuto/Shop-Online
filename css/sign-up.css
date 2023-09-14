@@ -119,8 +119,8 @@ li a {
 
 
 .home {
-    background-color: #333;
-    color: #fff;
+    background-color: #fff;
+    color: #333;
 }
 
 
@@ -389,4 +389,10 @@ footer div img:hover {
 
 footer p {
     direction: rtl;
+}
+.hr-foot{
+        margin-top: 50px;
+}
+.nav-log2 {
+    margin-bottom: 50px;
 }

@@ -390,3 +390,7 @@ footer div img:hover {
 footer p {
     direction: rtl;
 }
+.about{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
